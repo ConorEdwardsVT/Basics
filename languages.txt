@@ -1,0 +1,7 @@
+My Answers
+Favorite Language: Dart, because it feels like there are fewer decisions that don't make any sense to me
+Most Experience: Java, from VT CS classes
+
+Zack Lahlou (lahlouzn)
+Favorite Language: Python, because it is less verbose and therefore simpler
+Most Experience: Java, also from VT CS classes
